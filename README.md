@@ -1,0 +1,1 @@
+### Simple graphQL api admin panel, readonly for now
